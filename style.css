@@ -1,0 +1,65 @@
+h1 {
+    color: blue;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin: auto;
+}
+
+body {
+    background-color: lightblue;
+}
+
+h2.Year {
+      font-size: xx-large;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      background-color: blueviolet;
+      color: blue;
+      font-weight: bold;
+      margin: 10px;
+}
+
+img {
+    border-top: 20px solid black;
+    border-bottom: 20px solid black;
+    height: 200px;
+}
+
+h2.Years{
+    font-size: xx-large;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      background-color: orange;
+      color: white;
+      font-weight: bold;
+      margin: 10px;
+}
+
+img.years-image{
+    width: 400px;
+
+}
+
+h2.Yearz{
+    color: gold;
+    background-color: antiquewhite;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: xx-large;
+    
+}
+
+h2.YEars {
+    color: red;
+    background-color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+h2.golden {
+    color: blue;
+    background-color: yellowgreen;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: xx-large;
+}
